@@ -1,7 +1,5 @@
-{
-  "users": {
-    "user": {
-      "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
-    }
+{"users":
+  {"user":{"passwordHash":"5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"},
+  "kiransaziz":{"passwordHash":"9211e8a4f52a9154440c7b64e6e3c777f48eac3a76e32f8d59dd5827af6e622f"}
   }
 }
